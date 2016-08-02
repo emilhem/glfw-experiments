@@ -10,9 +10,11 @@ Both copyrighted to Camilla Berglund licensed under the zlib/libpng license.
 
 The code is currently developed in CodeLite which is why you might find files with CodeLite stuff in it.
 
-# License
+## License
 
-zlib/libpng (see [LICENSE.md](LICENSE.md)
+zlib/libpng (see [LICENSE.md](LICENSE.md))
 
-# Author
+## Author
 Emil Hemdal
+
+Read above for information with regards to the original author of the source file where some source code is taken from.
